@@ -35,7 +35,7 @@ And follow the same instructions from 5-9 from the ## Install Playwright Using c
   # (**OR**)
 
 ## Clone the git Repository to the local folder to download the existing tests
-1. git clone https://github.com/Laxmipriya18/Assessment-Rationarium **(This can be done using git bash)**
+1. git clone https://github.com/Laxmipriya18/**(This can be done using git bash)**
 2. Place the **Login with Invalid credentials.spec.js**  inside PLAYWRIGHT/tests folder
 ![image](https://github.com/Laxmipriya18/Assessment-Rationarium/assets/141823302/4bb4d784-d2e1-499c-a566-981a2d614307)
 
